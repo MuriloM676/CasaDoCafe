@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/MuriloM676/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/MuriloM676/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="https://github.com/MuriloM676/CasaDoCafe/blob/master/img/Captura%20de%20tela%20de%202020-12-04%2020-12-07.png" alt="exemplo imagem">
 
 > Site desenvolvido com a temática de uma cafeteria. O templeta usado foi pego em templetemo.com
 
@@ -21,7 +21,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Editar Contato
 - [x] Editar Cardapio
 - [x] Revisão final
-- [ ] Finalização Readme 
+- [x] Finalização Readme 
 
 ## 💻 Pré-requisitos
 
